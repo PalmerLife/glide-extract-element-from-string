@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Extract Element by Index",
+    "description": "Extracts an element from a comma-separated string based on the provided index.",
+    "author": "Your Name <your@email.com>",
+    "params": [
+      {
+        "name": "string",
+        "displayName": "Comma Separated String",
+        "type": "string"
+      },
+      {
+        "name": "index",
+        "displayName": "Index",
+        "type": "number"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
